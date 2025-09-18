@@ -2,9 +2,9 @@ Black Ops Escrow System: Protecting Buyers and Sellers in Darknet Transactions
 
 The Black Ops escrow system is a critical feature designed to safeguard both buyers and sellers during transactions on the marketplace. It acts as a neutral third party holding funds until all parties fulfill their obligations.
  
-[<img src="/image/alert.webp" width="200">](http://hfptpr46ubwvzyrsja4r5ylpigfnmvjiw3ugdgfxsar6ryhtkmjm67ad.onion)
+[<img src="/image/alert.webp" width="200">](http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion)
 
-<a href="http://hfptpr46ubwvzyrsja4r5ylpigfnmvjiw3ugdgfxsar6ryhtkmjm67ad.onion"><img src="/image/picture.webp" alt="Verified blackops dark web" style="max-width: 100%;"></a>
+<a href="http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion"><img src="/image/picture.webp" alt="Verified blackops dark web" style="max-width: 100%;"></a>
  
 How the Escrow System Works
 
@@ -26,4 +26,6 @@ Best Practices for Users
 - Communicate clearly and keep records of all communications.
 - Report any suspicious activity to market support.
 
-Experience secure trading with Black Ops’ trusted escrow system. Access the market via the official link: **http://hfptpr46ubwvzyrsja4r5ylpigfnmvjiw3ugdgfxsar6ryhtkmjm67ad.onion**
+Experience secure trading with Black Ops’ trusted escrow system. Access the market via the official link: **http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion**
+
+Update:  Thursday 18 September 2025 url is now responsive and live
