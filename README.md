@@ -28,4 +28,6 @@ Best Practices for Users
 
 Experience secure trading with Black Ops’ trusted escrow system. Access the market via the official link: **http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion**
 
-Update:  Thursday 18 September 2025 url is now responsive and live
+
+
+Update:  10/01/2025
